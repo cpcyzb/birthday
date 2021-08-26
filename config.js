@@ -8,6 +8,9 @@ var config = {
         "这是我们在一起之后",
         "你的第一个生日",
         "同时也是我们在一起的一周年纪念日嗷！",
+        "接下来的一年也要开开心心噢！",
+        "我相信小田同学",
+        "一定能心想事成哒!"
         
     ],
     /**
@@ -25,13 +28,13 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "开始",
-        play: "音乐",
+        turn_on: "登登登登！",
+        play: "来点music！",
         bannar_coming: "颜色",
-        balloons_flying: "好像少点东西",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
-        wish_message: "生日快乐",
+        balloons_flying: "气球组登场！",
+        cake_fadein: "怎么能少了蛋糕",
+        light_candle: "点上蜡烛",
+        wish_message: "可以许愿啦！",
         story: "A MESSAGE FOR YOU",
     }
 };
