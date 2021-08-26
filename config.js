@@ -10,7 +10,9 @@ var config = {
         "同时也是我们在一起的一周年纪念日嗷！",
         "接下来的一年也要开开心心噢！",
         "我相信小田同学",
-        "一定能心想事成哒!"
+        "一定能心想事成哒!",
+        "最后再一次祝甜酱",
+        "生日快乐and一周年快乐哟！"
         
     ],
     /**
@@ -30,9 +32,9 @@ var config = {
     desc: {
         turn_on: "登登登登！",
         play: "来点music！",
-        bannar_coming: "颜色",
+        bannar_coming: "上横幅！",
         balloons_flying: "气球组登场！",
-        cake_fadein: "怎么能少了蛋糕",
+        cake_fadein: "送给小田的蛋糕",
         light_candle: "点上蜡烛",
         wish_message: "可以许愿啦！",
         story: "A MESSAGE FOR YOU",
