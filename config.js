@@ -37,6 +37,6 @@ var config = {
         cake_fadein: "送给小田的蛋糕",
         light_candle: "点上蜡烛",
         wish_message: "可以许愿啦！",
-        story: "A MESSAGE FOR YOU",
+        story: "致甜酱",
     }
 };
